@@ -4,7 +4,6 @@ public class MinimumElementChallenge {
   private static Scanner sc = new Scanner(System.in);
 
   public static  int[] readIntegers(int count) {
-  ;
     int[] arrayStore = new int[count];
 
     for (int i = 0; i < arrayStore.length; i++) {
